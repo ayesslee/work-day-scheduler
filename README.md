@@ -6,9 +6,9 @@ A work day application that allows users to save events for each hour of the day
 
 ## Links
 
-[Deployed Website]()
+[Deployed Website](https://ayesslee.github.io/work-day-scheduler/)
 
-[Repository]()
+[Repository](https://github.com/ayesslee/work-day-scheduler)
 
 
 ## Installation
